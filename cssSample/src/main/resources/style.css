@@ -1,0 +1,29 @@
+.root {
+    -fx-spacing: 24;
+    -fx-alignment: center;
+}
+
+.label {
+    -fx-font-size: 24pt;
+    -fx-text-fill: #EE9A9A;
+    -fx-alignment: center:
+}
+
+#label {
+    -fx-layout-x: 10pt;
+    -fx-layout-y: 10pt
+}
+
+#button {
+    -fx-layout-x: 10pt;
+    -fx-layout-y: 50pt;
+}
+
+#button:hover {
+    
+}
+
+.text-field {
+    -fx-layout-x: 10pt;
+    -fx-layout-y: 100pt
+}
